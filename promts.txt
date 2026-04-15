@@ -1,4 +1,6 @@
-1 haz una maqueta basica de una pagina para promocionar un nuevo nootbook. :busque la maqueta para trabajar desde ahi
-2 haz lo mas moderno y mejora la distribusion del contenido : busque hacerlo mas moderno y mejorar la pocision de las descripciones del producto
-3 adaptalo  pantallas pequenas o de de celular. para mejorar el uso en distinas pantalas
-4 agraga una tabla: esto lo hce para poder comparar las caracteristicas del producto
+1 haz una maqueta basica de una pagina para promocionar un nuevo nootbook. uso:busque la maqueta para trabajar desde ahi  : etapa 1 inicial utilidad:parcial
+2 haz lo mas moderno y mejora la distribusion del contenido uso: busque hacerlo mas moderno y mejorar la pocision de las descripciones del producto etapa: 2 utilidad:muy util
+3 adaptalo  pantallas pequenas o de de celular. uso:para mejorar el uso en distinas pantalas etapa: 4 . utilidad:util
+4 agraga una tabla uso: esto lo hce para poder comparar las caracteristicas del producto etapa 5 .utilidad parcial
+5 de la pagina pone colores mas claros uso:colores mas claros para la pagina  etapa 2 utilidad: poco util
+6 cambia la parte de estilo al archivo llamado estilos.css uso: esto fue para tener un html mas limpio y ordenado utilidad util etapa final
