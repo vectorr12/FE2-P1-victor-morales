@@ -1,1 +1,4 @@
 1 haz una maqueta basica de una pagina para promocionar un nuevo nootbook. :busque la maqueta para trabajar desde ahi
+2 haz lo mas moderno y mejora la distribusion del contenido : busque hacerlo mas moderno y mejorar la pocision de las descripciones del producto
+3 adaptalo  pantallas pequenas o de de celular. para mejorar el uso en distinas pantalas
+4 agraga una tabla: esto lo hce para poder comparar las caracteristicas del producto
